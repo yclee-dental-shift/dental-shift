@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+coverage/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+.playwright-cli/
+.wrangler/
+.dev.vars

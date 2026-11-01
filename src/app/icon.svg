@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="診所班表">
+  <!-- 範例圖示（月曆＋打勾）。換成自己診所的標誌：直接取代這個檔與 apple-icon.png。 -->
+  <rect x="6" y="10" width="52" height="48" rx="10" fill="#0f766e"/>
+  <rect x="6" y="10" width="52" height="14" rx="10" fill="#115e59"/>
+  <rect x="6" y="18" width="52" height="6" fill="#115e59"/>
+  <rect x="18" y="4" width="6" height="12" rx="3" fill="#134e4a"/>
+  <rect x="40" y="4" width="6" height="12" rx="3" fill="#134e4a"/>
+  <path d="M20 40 l8 8 l16 -16" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
