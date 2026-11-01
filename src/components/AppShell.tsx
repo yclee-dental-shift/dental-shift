@@ -12,6 +12,7 @@ import { Icon } from "./Icon";
 import { MobileTabBar, type TabItem } from "./MobileTabBar";
 import { ThemeToggle } from "./ThemeToggle";
 import { ToastHost } from "./Toast";
+import { DemoBanner } from "@/demo/DemoBanner";
 import { usePublications } from "./usePublications";
 import { useReviewTodos } from "./useReviewTodos";
 import { useIsPhoneFrame, useViewer } from "./ViewerProvider";
@@ -316,6 +317,7 @@ export function AppShell({ children, buildLabel }: { children: ReactNode; buildL
         />
       )}
       <div className="app-main">
+        <DemoBanner />
         {children}
       </div>
       <ToastHost />

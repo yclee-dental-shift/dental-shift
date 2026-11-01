@@ -105,3 +105,4 @@ npm run verify   # lint、typecheck、test、build
   - `state: "shift"` 一定有 `shiftId`；`state: "leave"` 不能有 `shiftId`。
 - 排班規則在 `src/domain/rules/`，每個規則都有測試在 `tests/`；改規則時一起改測試。
 - 程式註解裡的「使用者 YYYY-MM-DD」是原本設計時的決定紀錄，可以忽略。
+- 展示版：`src/demo/`、`src/app/start/`、`public/demo/seed.json` 是原作者公開展示網站用的（建置時設 `NEXT_PUBLIC_DEMO=1` 才會出現）。診所自己用不需要，可以整個刪掉（同時拿掉 `layout.tsx`、`AppShell.tsx` 裡引用的兩行）。
