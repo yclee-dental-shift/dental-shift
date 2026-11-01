@@ -1,17 +1,35 @@
+牙醫診所排班系統 授權條款
+
 版權所有 © 2026 YCLee
 
-本軟體（含程式碼、說明文件與畫面設計）僅授權給經作者同意的對象，用於其自己的診所排班。
+任何人都可以免費取得本軟體（含程式碼、說明文件與畫面設計），並在下列條件下使用：
 
-經授權者可以：
-- 下載、修改本軟體，用在自己的診所。
-- 讓自己診所的員工使用修改後的網站。
+可以：
+1. 下載、複製、修改本軟體，用在自己的診所（或自己經營的診所）排班。
+2. 讓自己診所的員工使用修改後的網站。
+3. 請工程師或 AI 幫忙修改、架設，供自己的診所使用。
 
-未經作者書面同意，不得：
-- 將本軟體或修改後的版本轉給他人、公開發布或放在公開的程式碼庫。
-- 販售、出租本軟體，或用本軟體對外提供服務。
+不可以：
+1. 販售本軟體或修改後的版本，或把它當成付費產品、付費服務的一部分。
+2. 用本軟體替別的診所或公司架設、代管、維護並收取費用（包括訂閱、月費、架設費）。
+3. 移除或改掉本條款與原作者「YCLee」的標示。
 
-本軟體依「現狀」提供，不附任何保證。使用本軟體產生的任何結果（包括班表內容、工時計算與勞動法規遵循），由使用者自行確認並負責。
+轉給別人時：
+轉給其他診所使用時，必須附上本條款全文；對方同樣受本條款約束，也不得收費。
 
-All rights reserved. Use is limited to parties authorized by the author, for scheduling at their own clinic only.
-Redistribution, publication, sale, or offering this software as a service requires the author's written permission.
-The software is provided "as is", without warranty of any kind.
+不附任何保證：
+本軟體依「現狀」提供，不附任何明示或默示的保證。使用本軟體產生的任何結果（包括班表內容、工時計算與勞動法規遵循），由使用者自行確認並負責；作者不負任何賠償責任。
+
+如果要用在上面「不可以」的情況，請先取得作者的書面同意。
+
+---
+
+Dental Clinic Shift Scheduler License
+
+Copyright (c) 2026 YCLee
+
+Anyone may obtain, copy, and modify this software free of charge to schedule staff at their own clinic, and let their own staff use it.
+You may NOT sell this software or derivatives, include it in any paid product or service, or charge others for hosting, deploying, or maintaining it.
+Keep this license and the "YCLee" attribution in all copies. Copies passed to others must include this license and remain free of charge.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The author is not liable for any results of its use, including schedules, working-hour calculations, or labor-law compliance.
+Commercial use requires the author's written permission.
